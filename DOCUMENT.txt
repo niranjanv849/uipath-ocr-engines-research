@@ -1,0 +1,15 @@
+AN EXPERIMENTAL PERFORMANCE ANALYSIS ON ROBOTICS PROCESS AUTOMATION (RPA) WITH OPEN SOURCE OCR ENGINES: MICROSOFT OCR AND GOOGLE TESSERACT OCR
+Malathi T*, Diwaan Chandar C S**, Niranjan V**
+*Assistant Professor, Department of Computer Science & Engineering, Bannari Amman Institute of Technology, Sathyamangalam, Erode, Tamilnadu - 638401
+**Second Year, Department of Computer Science & Engineering, Bannari Amman Institute of Technology, Sathyamangalam, Erode, Tamilnadu - 638401
+
+
+
+
+//Photos
+
+All the Photos used for scrapping in both OCR Engines are in .jpg format
+
+
+
+//end of file
